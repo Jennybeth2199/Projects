@@ -16,3 +16,12 @@
   [Demographics dashboard tab](https://github.com/Jennybeth2199/Data-Analysis/blob/main/Demographics%20dashboard%20using%20Cognos.png)
 
 - Another example of a visualization using Cognos: [Cognos link](https://github.com/Jennybeth2199/Data-Analysis/blob/main/Data%20Visualization%20using%20Cognos.png)
+
+
+## Data Science Projects
+- [Data Collection Project](https://github.com/Jennybeth2199/IBM-Data-Science/blob/master/Data%20Collection%20API.ipynb)
+
+- [Interactive Dashboard Project using Plotly Dash](https://github.com/Jennybeth2199/IBM-Data-Science/blob/master/Interactive%20Dashboard%20with%20Ploty%20Dash.py)
+
+- [Machine Learning Project](https://github.com/Jennybeth2199/IBM-Data-Science/blob/master/EDA%20with%20Visualization.ipynb)
+
