@@ -22,5 +22,7 @@
 - [Exploratory Data Analysis with Visualization](https://github.com/Jennybeth2199/IBM-Data-Science/blob/master/EDA%20with%20Visualization.ipynb)
 - [Interactive Dashboard Project using Plotly Dash](https://github.com/Jennybeth2199/IBM-Data-Science/blob/master/Interactive%20Dashboard%20with%20Ploty%20Dash.py)
 - [Interactive Visual Analytics with Folium](https://github.com/Jennybeth2199/IBM-Data-Science/blob/master/EDA%20with%20Visualization.ipynb)
-- [Machine Learning Project](https://github.com/Jennybeth2199/IBM-Data-Science/blob/master/EDA%20with%20Visualization.ipynb)
+
+### Machine Learning Project 
+- [Machine Learning Project  about Landing Prediction](https://github.com/Jennybeth2199/IBM-Data-Science/blob/master/Machine%20Learning%20Prediction.ipynb)
 
