@@ -25,4 +25,9 @@
 
 ### Machine Learning Project 
 - [Machine Learning Project  about Landing Prediction](https://github.com/Jennybeth2199/IBM-Data-Science/blob/master/Machine%20Learning%20Prediction.ipynb)
-
+- [Simple Linear Regression](https://github.com/Jennybeth2199/Data-Analysis/blob/main/ML-Simple-Linear-Regression.ipynb)
+- [Multiple Linear Regression](https://github.com/Jennybeth2199/Data-Analysis/blob/main/ML-Mulitple-Linear-Regression.ipynb)
+- [Non Linear Regression Analysis](https://github.com/Jennybeth2199/Data-Analysis/blob/main/ML-NonLinearRegression.ipynb)
+- [Polynomial Regression Analysis](https://github.com/Jennybeth2199/Data-Analysis/blob/main/ML-Polynomial-Regression.ipynb)
+- [Classification- Decision Trees](https://github.com/Jennybeth2199/Data-Analysis/blob/main/ML-Classification-Decision-Trees.ipynb)
+- [Classification- K-Nearest Neighbors](https://github.com/Jennybeth2199/Data-Analysis/blob/main/ML-Classification-K-Nearest-neighbors.ipynb)
